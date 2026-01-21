@@ -1,0 +1,8 @@
+date,day,is_weekend,weather,temperature,predicted_orders,recommended_prep,waste_avoided
+2025-02-15,Saturday,True,Sunny,32,240,216,24
+2025-02-16,Sunday,True,Cloudy,30,225,202,23
+2025-02-17,Monday,False,Sunny,29,185,166,19
+2025-02-18,Tuesday,False,Rainy,28,160,144,16
+2025-02-19,Wednesday,False,Sunny,30,190,171,19
+2025-02-20,Thursday,False,Cloudy,31,178,160,18
+2025-02-21,Friday,False,Sunny,33,210,189,21
