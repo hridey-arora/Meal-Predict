@@ -1,0 +1,11 @@
+date,day,is_weekend,weather,temperature,orders
+2025-02-01,Saturday,True,Sunny,31,235
+2025-02-02,Sunday,True,Cloudy,29,220
+2025-02-03,Monday,False,Sunny,30,180
+2025-02-04,Tuesday,False,Rainy,27,150
+2025-02-05,Wednesday,False,Sunny,32,195
+2025-02-06,Thursday,False,Cloudy,28,175
+2025-02-07,Friday,False,Sunny,33,205
+2025-02-08,Saturday,True,Sunny,34,245
+2025-02-09,Sunday,True,Rainy,26,210
+2025-02-10,Monday,False,Cloudy,29,170
